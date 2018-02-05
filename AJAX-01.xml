@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?> <!--Version -->
+<scharfk> <!--Root node -->
+
+<title>KodyScharf</title> <!--Title node -->
+
+<studentNumber program="Computer Programmer">991455754</studentNumber> <!-- -->
+
+<studentName login="scharfk">Kody Scharf</studentName>
+
+
+<store type="store">
+
+<itemName name="Table Saw">
+<itemPrice>$40</itemPrice>
+<itemDescription>A saw for your tables.</itemDescription>
+<itemCategory>Saws</itemCategory>
+<itemInventoryID>001</itemInventoryID>
+<image>tablesaw.jpg</image>
+</itemName>
+
+
+<itemName name="Hammer">
+<itemPrice>$50</itemPrice>
+<itemDescription>The hammerest</itemDescription>
+<itemCategory>Hammers</itemCategory>
+<itemInventoryID>002</itemInventoryID>
+<image>sledgehammer.jpg</image>
+</itemName>
+
+
+
+<itemName name="Wrench">
+<itemPrice>$60</itemPrice>
+<itemDescription>Nothing it can't fix</itemDescription>
+<itemCategory>Wrenches</itemCategory>
+<itemInventoryID>003</itemInventoryID>
+<image>wrench.jpg</image>
+</itemName>
+
+
+</store>
+
+
+<store type="store1">
+<itemName name="Screwdriver">
+<itemPrice>$50</itemPrice>
+<itemDescription>The best screw driver ever.</itemDescription>
+<itemCategory>Screwdriver</itemCategory>
+<itemInventoryID>001</itemInventoryID>
+<image>screwdriver.jpg</image>
+</itemName>
+
+
+
+
+
+<itemName name="Bolt">
+<itemPrice>$0.50</itemPrice>
+<itemDescription>Just the one you need</itemDescription>
+<itemCategory>Bolts and Screws</itemCategory>
+<itemInventoryID>002</itemInventoryID>
+<image>bolt.jpg</image>
+</itemName>
+
+
+
+<itemName name="Deep Screw">
+<itemPrice>$1</itemPrice>
+<itemDescription>Just deep enough</itemDescription>
+<itemCategory>Bolts and Screws</itemCategory>
+<itemInventoryID>003</itemInventoryID>
+<image>deepscrew.jpg</image>
+</itemName>
+</store>
+
+
+
+<store type="store2">
+<itemName name="Washer">
+<itemPrice>$0.5</itemPrice>
+<itemDescription>Nice and clean</itemDescription>
+<itemCategory>Misc</itemCategory>
+<itemInventoryID>001</itemInventoryID>
+<image>washer.jpg</image>
+</itemName>
+
+
+
+<itemName name="Drywall Screw">
+<itemPrice>$1</itemPrice>
+<itemDescription>Doesn't work when wet</itemDescription>
+<itemCategory>Bolts and Screws</itemCategory>
+<itemInventoryID>002</itemInventoryID>
+<image>drywall.jpg</image>
+</itemName>
+
+
+</store>
+
+</scharfk>
